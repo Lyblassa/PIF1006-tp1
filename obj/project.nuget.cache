@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Obt6xox7UYc=",
+  "success": true,
+  "projectFilePath": "D:\\Mes cours Uqtr\\automne2024\\PIF1006\\tp\\PIF1006 - Travail #1 - Solution de base - Copie\\PIF1006 - Travail #1 - Solution de base\\PIF1006\\PIF1006-tp1\\PIF1006-tp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

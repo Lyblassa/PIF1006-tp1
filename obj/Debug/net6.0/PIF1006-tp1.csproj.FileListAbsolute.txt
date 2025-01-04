@@ -1,0 +1,28 @@
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.exe
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.deps.json
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.runtimeconfig.json
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.dll
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.pdb
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.AssemblyInfoInputs.cache
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.AssemblyInfo.cs
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.csproj.CoreCompileInputs.cache
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.dll
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\refint\PIF1006-tp1.dll
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.pdb
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.genruntimeconfig.cache
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\ref\PIF1006-tp1.dll
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.exe
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.deps.json
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.runtimeconfig.json
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.dll
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net6.0\PIF1006-tp1.pdb
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.AssemblyInfoInputs.cache
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.AssemblyInfo.cs
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.csproj.CoreCompileInputs.cache
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.dll
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\refint\PIF1006-tp1.dll
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.pdb
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\PIF1006-tp1.genruntimeconfig.cache
+d:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base - Copie\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net6.0\ref\PIF1006-tp1.dll

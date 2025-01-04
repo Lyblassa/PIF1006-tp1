@@ -1,0 +1,47 @@
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.exe
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.deps.json
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.runtimeconfig.json
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.runtimeconfig.dev.json
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.dll
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\bin\Debug\net5.0\ref\PIF1006-tp1.dll
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.pdb
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.csprojAssemblyReference.cache
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.AssemblyInfoInputs.cache
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.AssemblyInfo.cs
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.csproj.CoreCompileInputs.cache
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.dll
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\ref\PIF1006-tp1.dll
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.pdb
+C:\Users\Adamz\source\repos\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.genruntimeconfig.cache
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.exe
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.deps.json
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.runtimeconfig.json
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.runtimeconfig.dev.json
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.dll
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\ref\PIF1006-tp1.dll
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.pdb
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.csprojAssemblyReference.cache
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.AssemblyInfoInputs.cache
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.AssemblyInfo.cs
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.csproj.CoreCompileInputs.cache
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.dll
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\ref\PIF1006-tp1.dll
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.pdb
+E:\OneDrive - Personnel\OneDrive\Documents\Université\Enseignement\Cours\PIF-1006 (AUT-24)\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.genruntimeconfig.cache
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.exe
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.deps.json
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.runtimeconfig.json
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.runtimeconfig.dev.json
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.dll
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\bin\Debug\net5.0\PIF1006-tp1.pdb
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.AssemblyInfoInputs.cache
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.AssemblyInfo.cs
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.csproj.CoreCompileInputs.cache
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.dll
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\refint\PIF1006-tp1.dll
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.pdb
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\PIF1006-tp1.genruntimeconfig.cache
+D:\Mes cours Uqtr\automne2024\PIF1006\tp\PIF1006 - Travail #1 - Solution de base\PIF1006 - Travail #1 - Solution de base\PIF1006\PIF1006-tp1\obj\Debug\net5.0\ref\PIF1006-tp1.dll
